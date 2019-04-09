@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jessicablue.design" resolutions="1x" timestamp="1543736997221">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jessicablue.design" resolutions="1x" timestamp="1554789491694">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4196956338" ref="index"/>
+    <file name="index.css" crc="4230029267" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="typingtext.mulib" crc="407593050" seo="true" mt="1502907242000"/>
@@ -26,7 +26,7 @@
     <file name="new logo edited copy.png" crc="306018288" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ac-headshots-25 copy.jpg" crc="4265378828" seo="true" ref="index">
+    <file name="ac-headshots-25 copy.jpg" crc="4277408854" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="dsc_0030 copy269x266.jpg" crc="3904130398" seo="true" ref="index">
@@ -134,7 +134,7 @@
     <file name="img_20130304_160150.jpg" crc="4268957625" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_7257013610841-crop-u1818.jpg" crc="4139476509" seo="true" ref="index">
+    <file name="img_7257013610841-crop-u1818.jpg" crc="363817209" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="363b5270-bf93-49d0-bad6-6b786715b01c-20418-000015fef779703a.jpg" crc="4073254124" seo="true" ref="index">
@@ -146,15 +146,15 @@
     <file name="38f6e717-d4e2-40ff-a8e6-ea040c19a065-20418-000015fee629c998.jpg" crc="3939554177" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hello copy.png" crc="424702248" seo="true" ref="index">
+    <file name="noun_facebook_2060938.png" crc="395007602" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="noun_facebook_2060938.png" crc="3819704532" seo="true" ref="index">
+    <file name="noun_instagram_304156.png" crc="3930476571" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="noun_instagram_304156.png" crc="426022159" seo="true" ref="index">
+    <file name="gbr scan.jpg" crc="4211020706" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="335522681" seo="true" mt="1543653315527" redirect="true"/>
+  <file name="index.html" crc="4084181319" seo="true" mt="1554789357359" redirect="true"/>
 </manifest>

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://jessicablue.design/index.html</loc>
-    <lastmod>2018-12-01</lastmod>
+    <lastmod>2019-04-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -129,13 +129,13 @@
       <image:loc>http://jessicablue.design/images/38f6e717-d4e2-40ff-a8e6-ea040c19a065-20418-000015fee629c998.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jessicablue.design/images/hello%20copy.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://jessicablue.design/images/noun_facebook_2060938.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jessicablue.design/images/noun_instagram_304156.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jessicablue.design/images/gbr%20scan.jpg</image:loc>
     </image:image>
   </url>
   <url>
