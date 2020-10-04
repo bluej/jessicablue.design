@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jessicablue.design" resolutions="1x" timestamp="1601836429331">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jessicablue.design" resolutions="1x" timestamp="1601836866266">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="4217114899" ref="portfolio:index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="portfolio:index"/>
-    <file name="portfolio.css" crc="105568800" ref="portfolio"/>
-    <file name="nomq_portfolio.css" crc="4036462764" ref="portfolio"/>
-    <file name="index.css" crc="251264297" ref="index"/>
-    <file name="nomq_index.css" crc="4059758318" ref="index"/>
+    <file name="portfolio.css" crc="112265196" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="34618178" ref="portfolio"/>
+    <file name="index.css" crc="3863990281" ref="index"/>
+    <file name="nomq_index.css" crc="491991397" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="snippet_31586f766.idms" crc="4116593594" seo="true" mt="1601594982000"/>
@@ -1159,10 +1159,10 @@
     <file name="steffi-harms-cj0tpzc5uic-unsplash-crop-u4366.png" crc="287249733" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="steffi-harms-cj0tpzc5uic-unsplash-crop-u4367.png" crc="287249733" seo="true" ref="index">
+    <file name="steffi-harms-cj0tpzc5uic-unsplash-crop-u4367.png" crc="4023952378" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="portfolio.html" crc="3874690747" seo="true" mt="1601836292976" redirect="true"/>
-  <file name="index.html" crc="3782193770" seo="true" mt="1601836371643" redirect="true"/>
+  <file name="portfolio.html" crc="3955030511" seo="true" mt="1601836805938" redirect="true"/>
+  <file name="index.html" crc="506395015" seo="true" mt="1601836784738" redirect="true"/>
 </manifest>
