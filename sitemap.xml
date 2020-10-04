@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://jessicablue.design/index.html</loc>
-    <lastmod>2020-10-03</lastmod>
+    <lastmod>2020-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -21,13 +21,13 @@
       <image:loc>http://jessicablue.design/images/steffi-harms-cj0tpzc5uic-unsplash-crop-u436.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jessicablue.design/images/logo-04.svg</image:loc>
+      <image:loc>http://jessicablue.design/images/menutitle_portfolio-03.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jessicablue.design/images/menutitle_cv-01.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jessicablue.design/images/menutitle_portfolio-03.svg</image:loc>
+      <image:loc>http://jessicablue.design/images/logo-04.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jessicablue.design/images/steffi-harms-cj0tpzc5uic-unsplash-crop-u4362.png</image:loc>
@@ -44,10 +44,13 @@
     <image:image>
       <image:loc>http://jessicablue.design/images/steffi-harms-cj0tpzc5uic-unsplash-crop-u4366.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://jessicablue.design/images/steffi-harms-cj0tpzc5uic-unsplash-crop-u4367.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://jessicablue.design/portfolio.html</loc>
-    <lastmod>2020-10-03</lastmod>
+    <lastmod>2020-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -67,9 +70,6 @@
     </image:image>
     <image:image>
       <image:loc>http://jessicablue.design/images/dsc_0066.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/dsc_0095.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jessicablue.design/images/dsc_0104.jpg</image:loc>
@@ -123,6 +123,9 @@
       <image:loc>http://jessicablue.design/images/img_0575.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://jessicablue.design/images/dsc_0095.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://jessicablue.design/images/61316324610__480cb1d4-1ce4-4503-a048-a58d7d4940ce-crop-u1078.png</image:loc>
     </image:image>
     <image:image>
@@ -156,9 +159,6 @@
       <image:loc>http://jessicablue.design/images/annalogo-01266x266.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jessicablue.design/images/dana-brock_reception%20invite-02.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://jessicablue.design/images/segallogofinal_v1%20copy266x266.jpg</image:loc>
     </image:image>
     <image:image>
@@ -181,6 +181,9 @@
     </image:image>
     <image:image>
       <image:loc>http://jessicablue.design/images/dsc_0805.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jessicablue.design/images/dana-brock_reception%20invite-02.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jessicablue.design/images/dsc_0763.jpg</image:loc>
@@ -223,9 +226,6 @@
     </image:image>
     <image:image>
       <image:loc>http://jessicablue.design/images/dsc_0066673x540.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/dsc_0095393x477.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jessicablue.design/images/dsc_0104392x497.jpg</image:loc>
@@ -297,6 +297,9 @@
       <image:loc>http://jessicablue.design/images/fempower-602338x226.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://jessicablue.design/images/dsc_0095393x477.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://jessicablue.design/images/56638034646__7bda8d5d-70a2-4b7e-8be1-d55ae93c92ef-crop-u11242.png</image:loc>
     </image:image>
     <image:image>
@@ -355,9 +358,6 @@
     </image:image>
     <image:image>
       <image:loc>http://jessicablue.design/images/dsc_0066593x475.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/dsc_0095344x417.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jessicablue.design/images/dsc_0104342x433.jpg</image:loc>
@@ -459,6 +459,9 @@
       <image:loc>http://jessicablue.design/images/dana-brock_reception%20invite-02296x382.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://jessicablue.design/images/dsc_0095344x417.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://jessicablue.design/images/dsc_0442568x379.jpg</image:loc>
     </image:image>
     <image:image>
@@ -499,9 +502,6 @@
     </image:image>
     <image:image>
       <image:loc>http://jessicablue.design/images/dsc_0066461x370.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/dsc_0095253x307.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jessicablue.design/images/dsc_0104250x317.jpg</image:loc>
@@ -553,6 +553,9 @@
     </image:image>
     <image:image>
       <image:loc>http://jessicablue.design/images/img_0575296x138.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jessicablue.design/images/dsc_0095253x307.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jessicablue.design/images/img_0981232x309.jpg</image:loc>
@@ -645,9 +648,6 @@
       <image:loc>http://jessicablue.design/images/dsc_0066279x224.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jessicablue.design/images/dsc_0095151x183.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://jessicablue.design/images/dsc_0104150x190.jpg</image:loc>
     </image:image>
     <image:image>
@@ -717,6 +717,9 @@
       <image:loc>http://jessicablue.design/images/fempower-602-crop-u1223.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://jessicablue.design/images/dsc_0095151x183.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://jessicablue.design/images/56638034646__7bda8d5d-70a2-4b7e-8be1-d55ae93c92ef-crop-u11245.png</image:loc>
     </image:image>
     <image:image>
@@ -775,12 +778,6 @@
     </image:image>
     <image:image>
       <image:loc>http://jessicablue.design/images/dsc_0296214x143.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/61316324610__480cb1d4-1ce4-4503-a048-a58d7d4940ce-crop-u10786.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/56638034646__7bda8d5d-70a2-4b7e-8be1-d55ae93c92ef-crop-u11246.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jessicablue.design/images/gloucester%20cathedral182x109.jpg</image:loc>
@@ -846,6 +843,9 @@
       <image:loc>http://jessicablue.design/images/img_0575151x70.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://jessicablue.design/images/61316324610__480cb1d4-1ce4-4503-a048-a58d7d4940ce-crop-u10786.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://jessicablue.design/images/61353944079__51d4491a-f60d-4c7d-ba39-a7539505f73a-crop-u10862.png</image:loc>
     </image:image>
     <image:image>
@@ -862,6 +862,9 @@
     </image:image>
     <image:image>
       <image:loc>http://jessicablue.design/images/fempower-602-crop-u12232.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jessicablue.design/images/56638034646__7bda8d5d-70a2-4b7e-8be1-d55ae93c92ef-crop-u11246.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jessicablue.design/images/img_8612199x180.jpg</image:loc>
@@ -1063,150 +1066,6 @@
     </image:image>
     <image:image>
       <image:loc>http://jessicablue.design/images/dsc_0296161x108.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/dsc_008975x152.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/dsc_009276x152.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/gloucester%20cathedral148x89.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/img_7257013610841148x140.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/dsc_0109105x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/dsc_010493x118.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/dsc_0124188x137.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/dsc_006594x140.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/img_725267272949494x93.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/img_724678344726789x93.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/dsc_0066188x151.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/dsc_006394x140.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/img_298594x93.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/dsc_0122117x105.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/skinwalker%203107x138.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/skinwalker%204107x138.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/hex-skull-2-crop-u46462x62.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/img_0575217x101.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/dsc_009594x114.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/dsc_0146162x114.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/dsc_0149120x159.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/img_299385x125.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/61316324610__480cb1d4-1ce4-4503-a048-a58d7d4940ce-crop-u10788.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/61353944079__51d4491a-f60d-4c7d-ba39-a7539505f73a-crop-u10864.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/62052541546__e141b387-e7c0-4215-b2e8-1d6adfe50b2696x128.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/img_098196x128.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/56638034646__7bda8d5d-70a2-4b7e-8be1-d55ae93c92ef-crop-u11248.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/screen%20shot%202020-10-02%20at%2011310%20pm125x106.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/img_257878x78.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/img_1175101x126.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/img_8612155x140.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/fempower-602-crop-u12234.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/site%20plan%20adamskis%20ext-crop-u12864.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/dana-brock_reception%20invite-02184x238.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/tinywriter_logo266x26679x80.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/segallogofinal_v1%20copy266x26679x80.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/id%20card%20front180x130.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/annalogo-01266x26679x80.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/dsc_0442180x120.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/dsc_0763180x120.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/dsc_0274179x120.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/dsc_0212101x68.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/dsc_0805101x68.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/dsc_0353102x68.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/dsc_0637102x68.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/dsc_0315102x68.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/dsc_0295139x93.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jessicablue.design/images/dsc_0296139x93.jpg</image:loc>
     </image:image>
   </url>
   <url>

@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jessicablue.design" resolutions="1x" timestamp="1601758386618">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jessicablue.design" resolutions="1x" timestamp="1601836429331">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="444820002" ref="portfolio:index"/>
-    <file name="portfolio.css" crc="470217386" ref="portfolio"/>
-    <file name="index.css" crc="4042745421" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:portfolio"/>
-    <file name="nomq_index.css" crc="240083488" ref="index"/>
-    <file name="nomq_portfolio.css" crc="4068991618" ref="portfolio"/>
+    <file name="master_a-master.css" crc="4217114899" ref="portfolio:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="portfolio:index"/>
+    <file name="portfolio.css" crc="105568800" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="4036462764" ref="portfolio"/>
+    <file name="index.css" crc="251264297" ref="index"/>
+    <file name="nomq_index.css" crc="4059758318" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="snippet_31586f766.idms" crc="4116593594" seo="true" mt="1601594982000"/>
@@ -18,8 +18,8 @@
     <file name="whatinput.js" crc="86476730" ref="portfolio:index"/>
     <file name="museconfig.js" crc="3936894949" ref="portfolio:index"/>
     <file name="jquery.watch.js" crc="522499760" ref="portfolio:index"/>
-    <file name="require.js" crc="4177726516" ref="portfolio:index"/>
     <file name="jquery.museresponsive.js" crc="95814420" ref="portfolio:index"/>
+    <file name="require.js" crc="4177726516" ref="portfolio:index"/>
   </folder>
   <folder name="images">
     <file name="menutitle_portfolio_grey-03.svg" crc="147504228" seo="true" ref="portfolio">
@@ -30,11 +30,9 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="menutitle_portfolio_grey-03_poster_.png" crc="117917715" ref="portfolio"/>
     <file name="logo-05.svg" crc="206899162" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -54,9 +52,6 @@
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="dsc_0066.jpg" crc="4049894875" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="dsc_0095.jpg" crc="406687163" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="dsc_0104.jpg" crc="359201014" seo="true" ref="portfolio">
@@ -111,6 +106,9 @@
     <file name="img_0575.png" crc="44926379" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
+    <file name="dsc_0095.jpg" crc="406687163" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
     <file name="61316324610__480cb1d4-1ce4-4503-a048-a58d7d4940ce-crop-u1078.png" crc="3894218092" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
@@ -145,9 +143,6 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="dana-brock_reception invite-02.jpg" crc="191660423" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
     <file name="segallogofinal_v1 copy266x266.jpg" crc="3764815277" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -172,6 +167,9 @@
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="dsc_0805.jpg" crc="60404253" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dana-brock_reception invite-02.jpg" crc="191660423" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="dsc_0763.jpg" crc="4015472317" seo="true" ref="portfolio">
@@ -199,7 +197,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -216,7 +214,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -233,7 +231,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -250,7 +248,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -260,36 +258,6 @@
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="noun_map pin_734174_poster_.png" crc="370348733" ref="portfolio"/>
-    <file name="steffi-harms-cj0tpzc5uic-unsplash-crop-u436.png" crc="4292521328" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo-04.svg" crc="4086749135" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo-04_poster_.png" crc="4197251359" ref="index"/>
-    <file name="menutitle_cv-01.svg" crc="78450505" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="menutitle_cv-01_poster_.png" crc="233227153" ref="index"/>
-    <file name="menutitle_portfolio-03.svg" crc="103457251" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="menutitle_portfolio-03_poster_.png" crc="108510915" ref="index"/>
     <file name="gloucester cathedral587x354.jpg" crc="4120467597" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
@@ -300,9 +268,6 @@
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="dsc_0066673x540.jpg" crc="421134904" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="dsc_0095393x477.jpg" crc="451560626" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="dsc_0104392x497.jpg" crc="438974309" seo="true" ref="portfolio">
@@ -374,6 +339,9 @@
     <file name="fempower-602338x226.jpg" crc="3880608182" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
+    <file name="dsc_0095393x477.jpg" crc="451560626" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
     <file name="56638034646__7bda8d5d-70a2-4b7e-8be1-d55ae93c92ef-crop-u11242.png" crc="195160783" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
@@ -432,9 +400,6 @@
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="dsc_0066593x475.jpg" crc="331575376" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="dsc_0095344x417.jpg" crc="3885087476" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="dsc_0104342x433.jpg" crc="3856583350" seo="true" ref="portfolio">
@@ -536,6 +501,9 @@
     <file name="dana-brock_reception invite-02296x382.jpg" crc="4042523505" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
+    <file name="dsc_0095344x417.jpg" crc="3885087476" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
     <file name="dsc_0442568x379.jpg" crc="316406102" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
@@ -576,9 +544,6 @@
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="dsc_0066461x370.jpg" crc="4024791008" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="dsc_0095253x307.jpg" crc="4265483983" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="dsc_0104250x317.jpg" crc="3973316049" seo="true" ref="portfolio">
@@ -630,6 +595,9 @@
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="img_0575296x138.png" crc="252111139" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dsc_0095253x307.jpg" crc="4265483983" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="img_0981232x309.jpg" crc="4060741693" seo="true" ref="portfolio">
@@ -722,9 +690,6 @@
     <file name="dsc_0066279x224.jpg" crc="224502548" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="dsc_0095151x183.jpg" crc="70622130" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
     <file name="dsc_0104150x190.jpg" crc="306763566" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
@@ -794,6 +759,9 @@
     <file name="fempower-602-crop-u1223.png" crc="4233405697" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
+    <file name="dsc_0095151x183.jpg" crc="70622130" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
     <file name="56638034646__7bda8d5d-70a2-4b7e-8be1-d55ae93c92ef-crop-u11245.png" crc="4184888998" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
@@ -853,28 +821,6 @@
     </file>
     <file name="dsc_0296214x143.jpg" crc="371208247" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="61316324610__480cb1d4-1ce4-4503-a048-a58d7d4940ce-crop-u10786.png" crc="35557210" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="56638034646__7bda8d5d-70a2-4b7e-8be1-d55ae93c92ef-crop-u11246.png" crc="472162926" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="portfolio:index"/>
-    <file name="steffi-harms-cj0tpzc5uic-unsplash-crop-u4362.png" crc="4221600532" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="steffi-harms-cj0tpzc5uic-unsplash-crop-u4363.png" crc="478597955" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="steffi-harms-cj0tpzc5uic-unsplash-crop-u4364.png" crc="247964689" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="steffi-harms-cj0tpzc5uic-unsplash-crop-u4365.png" crc="58463533" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="steffi-harms-cj0tpzc5uic-unsplash-crop-u4366.png" crc="293196113" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
     </file>
     <file name="gloucester cathedral182x109.jpg" crc="184410321" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
@@ -939,6 +885,9 @@
     <file name="img_0575151x70.png" crc="4095604567" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
+    <file name="61316324610__480cb1d4-1ce4-4503-a048-a58d7d4940ce-crop-u10786.png" crc="35557210" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
     <file name="61353944079__51d4491a-f60d-4c7d-ba39-a7539505f73a-crop-u10862.png" crc="511865661" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
@@ -955,6 +904,9 @@
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="fempower-602-crop-u12232.png" crc="4201828963" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="56638034646__7bda8d5d-70a2-4b7e-8be1-d55ae93c92ef-crop-u11246.png" crc="472162926" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="img_8612199x180.jpg" crc="117238098" seo="true" ref="portfolio">
@@ -1158,151 +1110,59 @@
     <file name="dsc_0296161x108.jpg" crc="4288804292" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="dsc_008975x152.jpg" crc="205522037" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
+    <file name="blank.gif" crc="4208392903" ref="portfolio:index"/>
+    <file name="steffi-harms-cj0tpzc5uic-unsplash-crop-u436.png" crc="499636146" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="dsc_009276x152.jpg" crc="4216342313" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
+    <file name="menutitle_portfolio-03.svg" crc="103457251" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="gloucester cathedral148x89.jpg" crc="4187723661" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
+    <file name="menutitle_portfolio-03_poster_.png" crc="108510915" ref="index"/>
+    <file name="menutitle_cv-01.svg" crc="78450505" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="img_7257013610841148x140.jpg" crc="4289761296" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
+    <file name="menutitle_cv-01_poster_.png" crc="233227153" ref="index"/>
+    <file name="logo-04.svg" crc="4086749135" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="dsc_0109105x107.jpg" crc="233488829" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
+    <file name="logo-04_poster_.png" crc="4197251359" ref="index"/>
+    <file name="steffi-harms-cj0tpzc5uic-unsplash-crop-u4362.png" crc="27072713" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="dsc_010493x118.jpg" crc="120567343" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
+    <file name="steffi-harms-cj0tpzc5uic-unsplash-crop-u4363.png" crc="369064148" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="dsc_0124188x137.jpg" crc="375130170" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
+    <file name="steffi-harms-cj0tpzc5uic-unsplash-crop-u4364.png" crc="4193610972" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="dsc_006594x140.jpg" crc="420680254" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
+    <file name="steffi-harms-cj0tpzc5uic-unsplash-crop-u4365.png" crc="287249733" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="img_725267272949494x93.jpg" crc="481085593" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
+    <file name="steffi-harms-cj0tpzc5uic-unsplash-crop-u4366.png" crc="287249733" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="img_724678344726789x93.jpg" crc="3897789852" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="dsc_0066188x151.jpg" crc="3791444600" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="dsc_006394x140.jpg" crc="234369800" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="img_298594x93.jpg" crc="4091284559" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="dsc_0122117x105.jpg" crc="145823939" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="skinwalker 3107x138.jpg" crc="85946091" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="skinwalker 4107x138.jpg" crc="4249169858" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="hex-skull-2-crop-u46462x62.jpg" crc="127399469" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="img_0575217x101.png" crc="14041407" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="dsc_009594x114.jpg" crc="3896691923" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="dsc_0146162x114.jpg" crc="531023316" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="dsc_0149120x159.jpg" crc="3939626589" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="img_299385x125.jpg" crc="364684942" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="61316324610__480cb1d4-1ce4-4503-a048-a58d7d4940ce-crop-u10788.png" crc="312394453" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="61353944079__51d4491a-f60d-4c7d-ba39-a7539505f73a-crop-u10864.png" crc="3858967782" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="62052541546__e141b387-e7c0-4215-b2e8-1d6adfe50b2696x128.jpg" crc="462897101" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="img_098196x128.jpg" crc="4234862195" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="56638034646__7bda8d5d-70a2-4b7e-8be1-d55ae93c92ef-crop-u11248.png" crc="382123101" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="screen shot 2020-10-02 at 11310 pm125x106.png" crc="400102792" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="img_257878x78.jpg" crc="4084759161" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="img_1175101x126.jpg" crc="468643097" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="img_8612155x140.jpg" crc="275135420" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="fempower-602-crop-u12234.png" crc="4199440580" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="site plan adamskis ext-crop-u12864.png" crc="255934591" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="dana-brock_reception invite-02184x238.jpg" crc="150866925" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="tinywriter_logo266x26679x80.jpg" crc="4166377187" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="segallogofinal_v1 copy266x26679x80.jpg" crc="320200975" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="id card front180x130.jpg" crc="3814528364" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="annalogo-01266x26679x80.jpg" crc="518385827" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="dsc_0442180x120.jpg" crc="3985691216" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="dsc_0763180x120.jpg" crc="411181250" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="dsc_0274179x120.jpg" crc="244413153" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="dsc_0212101x68.jpg" crc="316916358" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="dsc_0805101x68.jpg" crc="437471745" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="dsc_0353102x68.jpg" crc="183400295" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="dsc_0637102x68.jpg" crc="289407426" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="dsc_0315102x68.jpg" crc="3858235262" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="dsc_0295139x93.jpg" crc="94872805" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="dsc_0296139x93.jpg" crc="187978641" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
+    <file name="steffi-harms-cj0tpzc5uic-unsplash-crop-u4367.png" crc="287249733" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="portfolio.html" crc="351937788" seo="true" mt="1601758331095" redirect="true"/>
-  <file name="index.html" crc="4115588757" seo="true" mt="1601747421032" redirect="true"/>
+  <file name="portfolio.html" crc="3874690747" seo="true" mt="1601836292976" redirect="true"/>
+  <file name="index.html" crc="3782193770" seo="true" mt="1601836371643" redirect="true"/>
 </manifest>
